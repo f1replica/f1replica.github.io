@@ -1,0 +1,1 @@
+import{_ as s,c as n,a as o,m as t,t as r,g as c}from"./index-DQOcmNd4.js";const d={name:"SeasonHeading",props:["season"]};function p(i,a,e,l,_,m){return c(),n("h2",null,[a[0]||(a[0]=o("span",{class:"visually-hidden"},"Season: ",-1)),t(r(e.season),1)])}const u=s(d,[["render",p],["__scopeId","data-v-da247b5a"]]);export{u as S};
