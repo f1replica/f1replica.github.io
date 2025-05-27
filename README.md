@@ -4,8 +4,7 @@
 
 ### Powered & feeded by Jolpica F1 API + F1 Formula 1
 
-F1 Replica a small personal for educational and research purposes only project
-Build with Vue.JS V3 & Quasar Framework
+F1 Replica a small personal for educational and research purposes only project. Build with Vue.JS V3 & Quasar Framework. 
 
 ### Frameworks & technologies used
 
