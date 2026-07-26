@@ -1,1 +1,0 @@
-import{_ as a,c as n,a as o,q as t,t as r,k as c}from"./index-DmG-IJvS.js";const d={name:"SeasonHeading",props:["season"]};function p(i,e,s,l,_,f){return c(),n("h2",null,[e[0]||(e[0]=o("span",{class:"visually-hidden"},"Season: ",-1)),t(r(s.season),1)])}const u=a(d,[["render",p],["__scopeId","data-v-dc127460"]]);export{u as S};
